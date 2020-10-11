@@ -26,8 +26,8 @@ https://desktop.github.com/
 
 ### 2. Brackets and VSCode both have extensions for Github
 
-https://visualstudio.github.com/
-Brackets Git
+* VsCode: https://visualstudio.github.com/
+* Brackets:  Brackets Git
 
 ### 3. If you would like, review information on DOM selectors at the following URLS:
 
