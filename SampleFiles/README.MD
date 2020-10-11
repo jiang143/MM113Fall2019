@@ -18,6 +18,9 @@ $ cd #put the path to your local foler here
 $ git clone YourCloningURL
 $ ls #list the files
 $ open index.html #will open index.html in your default browser
+
+
+Or use Github Desktop to fork and pull the files
 ```
 
 ### 2. Open the homework directory in Brackets
